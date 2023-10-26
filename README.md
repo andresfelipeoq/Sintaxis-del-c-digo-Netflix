@@ -1,6 +1,5 @@
 # Sintaxis-del-c-digo-Netflix
 Sintaxis del código para la creación de un clon de Netflix-Tarea
-Hasta mi última actualización en enero de 2022, Netflix está construido utilizando una variedad de tecnologías y lenguajes de programación. A continuación, te proporcionaré una descripción general de las tecnologías principales utilizadas en la plataforma:
 
 1. **Backend**:
    - **Lenguajes de Programación**: Netflix utiliza principalmente **Java** en su backend. Java es conocido por su fiabilidad, escalabilidad y rendimiento, lo que es fundamental para una plataforma de transmisión en tiempo real.
